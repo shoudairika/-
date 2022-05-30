@@ -9,22 +9,22 @@
 	https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html
 	（清华计算机课程中数学内容）
 	Khan academy：AP calculus BC（大学的先修课，掌握不同的理解即可，适合短时间内速成一部分基础）
-Multivariable Calculus（必看，有助于理解消化同济下册内容，多做Khan练习来复习）
-MIT18.01（高数上册修的好可以直接忽视）
-MIT18.02（比Khan的多变量讲的深）
-MIT18.03（微分方程，最后带了一下傅里叶和拉普拉斯变换）
-MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER
+	Multivariable Calculus（必看，有助于理解消化同济下册内容，多做Khan练习来复习）
+	MIT18.01（高数上册修的好可以直接忽视）
+	MIT18.02（比Khan的多变量讲的深）
+	MIT18.03（微分方程，最后带了一下傅里叶和拉普拉斯变换）
+	MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER
 英语：
-ELA式（句意理解更顺利）：
-Noredink（付费，语法）
-Achieve 3000（一些高校本身购买了但没有大面积推广给学生使用，可以上淘宝上开一个账号，阅读与写作）
-推荐Khan academy的语法课程，不建议全看完，建议天天做题到弄懂语法初步，然后刷Khan academy中SAT中语法题，有助于句意理解。
-vocabulary.com（免费，全英界面的背单词，建议背news中热词）
-membean（付费，大型的word power made easy）
-国内考试模式：
-四级，六级，考研，专四历年语词单选
-墨墨背单词（建议背词组搭配）
-有道词汇辨析（电子词典，以国内考试为主的词汇辨析）
-柯林斯的构词法一书（词汇辨析专用）
-阅读建议理清考研类逻辑思路（置换型语文，理工生需注意）
-华研的词汇书里的选择题（华研书籍不错选，可以拿（不建议专四专八文学类）一套考试类型来练手）
+	ELA式（句意理解更顺利）：
+	Noredink（付费，语法）
+	Achieve 3000（一些高校本身购买了但没有大面积推广给学生使用，可以上淘宝上开一个账号，阅读与写作）
+	推荐Khan academy的语法课程，不建议全看完，建议天天做题到弄懂语法初步，然后刷Khan academy中SAT中语法题，有助于句意理解。
+	vocabulary.com（免费，全英界面的背单词，建议背news中热词）
+	membean（付费，大型的word power made easy）
+	国内考试模式：
+	四级，六级，考研，专四历年语词单选
+	墨墨背单词（建议背词组搭配）
+	有道词汇辨析（电子词典，以国内考试为主的词汇辨析）
+	柯林斯的构词法一书（词汇变形专用）
+	阅读建议理清考研类逻辑思路（置换型语文，理工生需注意）
+	华研的词汇书里的选择题（华研书籍不错选，可以拿（不建议专四专八文学类）一套考试类型来练手）
