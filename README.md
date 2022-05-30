@@ -12,7 +12,7 @@ Multivariable Calculus（必看，有助于理解消化同济下册内容，多�
 MIT18.01（高数上册修的好可以直接忽视）
 MIT18.02（比Khan的多变量讲的深）
 MIT18.03（微分方程，最后带了一下傅里叶和拉普拉斯变换）
-MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER
+MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER/n
 英语：
 ELA式（句意理解更顺利）：
 Noredink（付费，语法）
