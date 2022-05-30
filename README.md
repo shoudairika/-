@@ -1,18 +1,19 @@
 # -
-上海插班生个人收集资料汇总
-cpp：CS106B，CS106L（斯坦福的c++计算机课程）
-高等数学：知能行（付费，网络工具）
-吉米多维奇学习指引（不是习题册，有些如确界可以忽视，但是是一本搞清原理，主动练习效果更好的书）
-清华小班辅导资料（自己搜索）
-考研类型的：陈文灯
-清华课本（有些数分化，比同济数学原理强，物理有些弱化，个人见解仅供参考）
-https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html（清华计算机课程中数学内容）
-Khan academy：AP calculus BC（大学的先修课，掌握不同的理解即可，适合短时间内速成一部分基础）
+	上海插班生个人收集资料汇总
+	cpp：CS106B，CS106L（斯坦福的c++计算机课程）
+	高等数学：知能行（付费，网络工具）
+	吉米多维奇学习指引（不是习题册，有些如确界可以忽视，但是是一本搞清原理，主动练习效果更好的书）
+	清华小班辅导资料（自己搜索）
+	考研类型的：陈文灯
+	清华课本（有些数分化，比同济数学原理强，物理有些弱化，个人见解仅供参考）
+	https://rekcarc-tsc-uht.readthedocs.io/en/latest/README.html
+	（清华计算机课程中数学内容）
+	Khan academy：AP calculus BC（大学的先修课，掌握不同的理解即可，适合短时间内速成一部分基础）
 Multivariable Calculus（必看，有助于理解消化同济下册内容，多做Khan练习来复习）
 MIT18.01（高数上册修的好可以直接忽视）
 MIT18.02（比Khan的多变量讲的深）
 MIT18.03（微分方程，最后带了一下傅里叶和拉普拉斯变换）
-MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER/n
+MIT还有另一门，如果你学过经济学或是物理竞赛，比较偏应用的一门讲微分方程和线性代数的上手快的课程：LEARN DIFFERENTIAL EQUATIONS: UP CLOSE WITH GILBERT STRANG AND CLEVE MOLER
 英语：
 ELA式（句意理解更顺利）：
 Noredink（付费，语法）
